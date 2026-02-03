@@ -4,6 +4,17 @@ I'm a passionate ethical hacker and security learner 🔐. I focus on offensive 
 
 ---
 
+## 🎓 Certifications
+
+<img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?logo=hackthebox&logoColor=white" />
+
+**Certified Ethical Hacker (CEH v13)** – EC-Council  
+  📅 Year: 2025  
+  Credential ID: ECC4709532816
+
+
+---
+
 ## 🛠 Skills
 - Network Security: **Nmap, Wireshark, TCP/IP**
 - Web App Testing: **Burp Suite, OWASP Top 10**
